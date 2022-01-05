@@ -70,7 +70,7 @@
 
     npm run dev
 
-*若終端機上顯示：Express is listening on http://localhost:3000，表示執行成功*
+*若終端機上顯示： ``Express is listening on http://localhost:3000``，表示執行成功*
 
 </br>
 
